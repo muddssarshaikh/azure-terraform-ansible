@@ -69,4 +69,4 @@ MIT License. Feel free to fork and extend.
 
 ## 👨‍💻 Author
 
-Built by [Your Name](https://github.com/yourname) — inspired by DevOps best practices.
+Built by Mohammed Muddassar Shaikh (https://github.com/muddssarshaikh) — inspired by DevOps best practices.
